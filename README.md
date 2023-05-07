@@ -18,7 +18,7 @@
 ### 진행 사항
    - 9월 4일: Kick off meeting - 멤버간 인사 및 과제 개요 공유
       - 과제: ROS,Turtlebot3, 란 무엇인지 공부하기!
-      ![meeting](https://user-images.githubusercontent.com/54785186/236608586-330347c1-9044-49c2-b8e5-2a7644169b94.jpeg)
+      
    
    - 2월 14일: 젯슨나노 환경설정(Tensorflow2.4.1, Ubuntu 20.04, OpenCV)완료
    
